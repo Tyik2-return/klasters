@@ -1,0 +1,7 @@
+﻿  lab5 algos.cpp
+D:\учеба\ООП\lab5 algos klasters\lab5 algos.cpp(50,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\ООП\lab5 algos klasters\lab5 algos.cpp(96,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\ООП\lab5 algos klasters\lab5 algos.cpp(106,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\ООП\lab5 algos klasters\lab5 algos.cpp(120,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\ООП\lab5 algos klasters\lab5 algos.cpp(161,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5 algos.vcxproj -> D:\учеба\ООП\lab5 algos klasters\x64\Debug\lab5 algos.exe
